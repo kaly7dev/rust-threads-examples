@@ -19,4 +19,4 @@ Examples from the Medium post: "How to Use Your Full Power with Threads in Rust 
 - rayon_pool: Rayon thread pool
 - sharding: Sharding mutexes to reduce contention
 
-For details, see the original post.
+For details, see the original post here: [Medium Post](https://medium.com/@kaly.salas.7/how-to-use-your-full-power-with-threads-in-rust-programming-d58e2336125f)
