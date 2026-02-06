@@ -17,5 +17,6 @@ Examples from the Medium post: "How to Use Your Full Power with Threads in Rust 
 - crossbeam_channel: Crossbeam channels
 - atomics: Atomic operations
 - rayon_pool: Rayon thread pool
+- sharding: Sharding mutexes to reduce contention
 
 For details, see the original post.
